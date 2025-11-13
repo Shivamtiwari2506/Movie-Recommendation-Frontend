@@ -4,7 +4,7 @@ Make sure you have installed:
 
 1. Node.js (v18 or higher)
 
-2. git clone https://github.com/your-username/your-repo-name.git
+2. git clone https://github.com/Shivamtiwari2506/Movie-Recommendation-Frontend.git
 
 3. cd Frontend
 4. npm install
