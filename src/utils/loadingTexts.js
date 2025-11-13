@@ -1,0 +1,30 @@
+const loadingTexts = [
+   "Finding the perfect movie for your mood 🎬",
+   "Grabbing some popcorn 🍿",
+   "Warming up the projectors... 🎥",
+   "Almost there! Just adjusting the lights 💡",
+   "Loading cinematic vibes ✨",
+   "Preparing your movie marathon 🛋️",
+   "Fetching blockbuster hits 🔥",
+   "Polishing the film reels 🎞️",
+   "Bringing you some drama and action 🎭",
+   "Hang tight, movie magic is loading... 🎩",
+   "Summoning your favorite characters 🦸‍♂️",
+   "Rewinding cinematic memories ⏪",
+   "Adjusting soundtracks for perfection 🎧",
+   "Adding extra butter to your popcorn 🧈",
+   "Setting up your front-row seat 🎟️",
+   "Mixing genres for a surprise twist 🎡",
+   "Aligning stars for a blockbuster 🌟",
+   "Unveiling hidden gems just for you 💎",
+   "Sharpening visuals for HD experience 📺",
+   "Brewing some movie magic ☕",
+   "Scanning the galaxy for sci-fi thrillers 🚀",
+   "Dusting off vintage classics 📽️",
+   "Cueing the suspense soundtrack 🎶",
+   "Getting your watchlist ready 📋",
+   "Powering up the reel engines ⚙️",
+ ];
+ 
+ export default loadingTexts;
+ 
