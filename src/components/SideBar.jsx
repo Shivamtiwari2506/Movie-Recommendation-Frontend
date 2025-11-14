@@ -6,7 +6,7 @@ import {
 } from "@tabler/icons-react";
 
 const SideBar = ({ searchHistory, handleHistoryClick }) => {
-  const [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(false);
 
   return (
     <div
