@@ -1,12 +1,14 @@
-import Movies from './components/Movies'
+import Movies from "./components/Movies";
+import SideBar from "./components/SideBar";
 
 function App() {
-
   return (
     <>
-    <Movies/>
+      <div>
+        <Movies />
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
